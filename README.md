@@ -20,6 +20,6 @@ imagem do git bash
 4) use o git init para iniciar
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/e88005ca-da2b-4ffd-9bb6-15c7f2608fa6)
 
-5) copie o link do seu repertorio
+5) copie o link do seu repositorio
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/b1fb17c1-9cdb-4107-ab81-574fd1927f44)
 
