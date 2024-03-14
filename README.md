@@ -25,3 +25,7 @@ imagem do git bash
 
 6) configure o repositorio associando ao servidor
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/b0db82c4-5007-4c71-8f16-bec15dccf909)
+
+7) recupera os arquivos do sevidor e mescla com os arquivos locais que já existirem nos diretórios
+   ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/e019dd80-366e-4901-9718-2482ad9bfaac)
+
