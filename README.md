@@ -11,3 +11,12 @@ botão de criar um repertorio
 1) passo: criar um repositorio no github, e de um nome para ele
 2) esse será o resultado:
 ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/009e1d06-c00b-4dd3-8c2a-218653484b72)
+
+3) escolha uma pasta e aperte o botão para configura-la no git bash
+   ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/3d8f75b6-fcd5-4948-ac58-e31c9afe3cac)
+imagem do git bash
+   ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/75fd11ea-f59f-4a4d-be8e-104ebe03ef74)
+
+4) use o git init para iniciar
+   ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/e88005ca-da2b-4ffd-9bb6-15c7f2608fa6)
+
