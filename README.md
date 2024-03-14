@@ -29,3 +29,21 @@ imagem do git bash
 7) recupera os arquivos do sevidor e mescla com os arquivos locais que já existirem nos diretórios
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/e019dd80-366e-4901-9718-2482ad9bfaac)
 
+8) alterar de master para main
+   ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/caec03aa-1f76-4277-8490-42b91e722c97)
+
+9) adicione todos os arquivos possíveis
+    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/24be01d7-245f-4949-98d2-c79f1f580b9c)
+
+10) enviar arquivo para o HEAD mas aonda não para o repositório remoto
+    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/3c30fc1c-04ad-4739-817f-9da8c1f0d62b)
+
+11) exibe os status dos arquivos
+    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/43822c83-ae1a-4d66-8cb9-c2d86eec50b1)
+
+12) enviar as modificações para o servidor
+    
+
+
+
+
