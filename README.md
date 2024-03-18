@@ -3,7 +3,7 @@
 ao entra no github essa será a tela inicial <br>
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/73e9e8e4-509a-4171-9a7c-696f7134ca62)
 
-botão de criar um repertorio <br>
+vá no botão de criar um repertorio <br>
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/0de21ef2-d034-477c-abff-2cd9c9739c7b)
    <br>
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/73fc25b8-0083-4bd2-b50f-136a5d311616)
