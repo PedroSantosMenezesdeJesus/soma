@@ -40,7 +40,7 @@ vá no botão de criar um repertorio <br>
 11) exibe os status dos arquivos <br>
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/43822c83-ae1a-4d66-8cb9-c2d86eec50b1)
 
-12) enviar as modificações para o servidor <br>
+12) enviar as modificações para o pull e para pegar os arquivos e o push para mandar os arquivos servidor <br>
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/6bbe601f-a2d2-4dc9-baa8-4879117bfb75)
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/cd69501e-d02b-47c5-8b5e-111761866f73)
 
