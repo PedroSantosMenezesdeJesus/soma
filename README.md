@@ -34,17 +34,17 @@ botão de criar um repertorio
 11) adicione todos os arquivos possíveis
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/24be01d7-245f-4949-98d2-c79f1f580b9c)
 
-12) enviar arquivo para o HEAD mas aonda não para o repositório remoto
+12) enviar arquivo para o HEAD mas ainda não para o repositório remoto
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/3c30fc1c-04ad-4739-817f-9da8c1f0d62b)
 
-13) exibe os status dos arquivos
+14) exibe os status dos arquivos
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/43822c83-ae1a-4d66-8cb9-c2d86eec50b1)
 
-14) enviar as modificações para o servidor
+15) enviar as modificações para o servidor
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/6bbe601f-a2d2-4dc9-baa8-4879117bfb75)
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/cd69501e-d02b-47c5-8b5e-111761866f73)
 
-15) resultado final:
+16) resultado final:
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/22280f2a-2f1d-4738-b9ae-ba74ab5579e5)
 
     
