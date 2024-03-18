@@ -1,6 +1,6 @@
 # soma
 
-ao entra no github essa será a tela inicial <br>
+ao entrar no github essa será a tela inicial <br>
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/73e9e8e4-509a-4171-9a7c-696f7134ca62)
 
 vá no botão de criar um repertorio <br>
