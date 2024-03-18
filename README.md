@@ -42,7 +42,9 @@ imagem do git bash
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/43822c83-ae1a-4d66-8cb9-c2d86eec50b1)
 
 12) enviar as modificações para o servidor
+    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/6bbe601f-a2d2-4dc9-baa8-4879117bfb75)
     
+
 
 
 
