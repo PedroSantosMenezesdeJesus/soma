@@ -44,7 +44,8 @@ botão de criar um repertorio
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/6bbe601f-a2d2-4dc9-baa8-4879117bfb75)
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/cd69501e-d02b-47c5-8b5e-111761866f73)
 
-15) remova um arquivo da lisra de arquivos a serem monitorados
+15) resultado final:
+    
     
 
 
