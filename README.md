@@ -21,7 +21,7 @@ vá no botão de criar um repertorio <br>
 5) copie o link do seu repositorio para usar na proxima etapa <br>
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/b1fb17c1-9cdb-4107-ab81-574fd1927f44)
 
-6) configure o repositorio associando ao servidor <br>
+6) configure o repositorio associando ao servidor (o link copiado do github) <br>
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/b0db82c4-5007-4c71-8f16-bec15dccf909)
 
 7) recupera os arquivos do sevidor e mescla com os arquivos locais que já existirem nos diretórios <br>
