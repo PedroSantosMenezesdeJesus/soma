@@ -15,10 +15,10 @@ vá no botão de criar um repertorio <br>
    imagem do git bash <br> 
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/75fd11ea-f59f-4a4d-be8e-104ebe03ef74)
 
-4) use o git init para iniciar <br>
+4) use o git init para iniciar caso tenha sucesso será exibida a mensagem de confirmação <br>
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/e88005ca-da2b-4ffd-9bb6-15c7f2608fa6)
 
-5) copie o link do seu repositorio <br>
+5) copie o link do seu repositorio para usar na proxima etapa <br>
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/b1fb17c1-9cdb-4107-ab81-574fd1927f44)
 
 6) configure o repositorio associando ao servidor <br>
