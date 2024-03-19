@@ -27,10 +27,10 @@ vá no botão de criar um repertorio <br>
 7) recupera os arquivos do sevidor e mescla com os arquivos locais que já existirem nos diretórios <br>
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/e019dd80-366e-4901-9718-2482ad9bfaac)
 
-8) alterar de master para main <br>
+8) crie e celecione uma brench, no caso o nome é main <br>
    ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/caec03aa-1f76-4277-8490-42b91e722c97)
 
-9) adicione todos os arquivos possíveis <br>
+9) adiciona um arquivo em uma lista de arquivos a ser monitorada <br>
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/24be01d7-245f-4949-98d2-c79f1f580b9c)
 
 10) enviar arquivo para o HEAD mas ainda não para o repositório remoto <br>
