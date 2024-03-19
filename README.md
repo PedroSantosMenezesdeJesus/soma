@@ -33,7 +33,7 @@ vá no botão de criar um repertorio <br>
 9) adiciona um arquivo em uma lista de arquivos a ser monitorada <br>
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/24be01d7-245f-4949-98d2-c79f1f580b9c)
 
-10) enviar arquivo para o HEAD mas ainda não para o repositório remoto <br>
+10) crie um ponto de referência com o estado atualde todos os arquivos <br>
     ![image](https://github.com/PedroSantosMenezesdeJesus/soma/assets/160974855/3c30fc1c-04ad-4739-817f-9da8c1f0d62b)
 
 11) exibe os status dos arquivos <br>
